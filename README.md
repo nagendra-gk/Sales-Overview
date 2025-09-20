@@ -98,4 +98,4 @@ Enhance interactivity with what-if parameters (e.g., discounts, regional targets
 
 
 
-![Sales Dashboard](https://github.com/nagendra-gk/Sales-Overview/blob/main/Overview%20Of%20Sales%20Report.png)
+![Sales Dashboard](https://github.com/nagendra-gk/Sales-Overview/blob/main/DashboardImage.png)
