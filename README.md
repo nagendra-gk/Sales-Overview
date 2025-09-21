@@ -1,4 +1,4 @@
-# 📊 Sales Overview Power BI Dashboard
+# 📊 Sales Overview Dashboard
 
 ## 📌 Project Description
 
