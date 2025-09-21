@@ -84,7 +84,7 @@ The **Sales Overview Project** is an analytical study of sales data aimed at tra
 - **Largest blocks** (e.g., California, New York) represent states with the highest sales contribution, while **smaller blocks** (e.g., Delaware, Kentucky) indicate lower contributions.
 - **Tooltips provide detailed insights** for each state.
 
-![Tooltip Screenshot](https://github.com/user-attachments/assets/58db73bc-8d62-4bfe-91e9-4c92db78f927)
+![Tooltip Screenshot](https://github.com/nagendra-gk/Sales-Overview/blob/main/TooltipScreenshot.png)
 
 - Tooltip details dynamically update based on **selected year, region, and category**, including:
   - **State:** Name of the state (e.g., California)
